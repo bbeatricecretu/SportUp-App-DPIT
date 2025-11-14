@@ -1,5 +1,4 @@
-# 🏃‍♀️ SportUp -- Move More, Together
-
+# 🏃‍♀️ SportUp App
 SportUp is a **cross-platform mobile app built with Flutter** during a
 **six-month DPIT ("Descoperă-ți Pasiunea în IT") mentorship program**.\
 Its goal is simple: **help people discover local sports activities,
